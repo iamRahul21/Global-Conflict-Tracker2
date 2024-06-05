@@ -1,0 +1,34 @@
+[
+    {
+        "position": {
+            "lat": 48.8566,
+            "lng": 2.3522
+        },
+        "title": "Eiffel Tower",
+        "icon": {
+            "url": "./assets/img/marker.svg",
+            "scaledSize": {
+                "width": 20,
+                "height": 20
+            }
+        },
+        "content": "<div><h1>Eiffel Tower</h1><p>Info about the Eiffel Tower...</p></div>",
+        "country": "France"
+    },
+    {
+        "position": {
+            "lat": 40.7128,
+            "lng": -74.0060
+        },
+        "title": "Statue of Liberty",
+        "icon": {
+            "url": "./assets/img/marker.svg",
+            "scaledSize": {
+                "width": 20,
+                "height": 20
+            }
+        },
+        "content": "<div><h1>Statue of Liberty</h1><p>Info about the Statue of Liberty...</p></div>",
+        "country": "United States"
+    }
+]
